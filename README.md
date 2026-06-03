@@ -1,14 +1,26 @@
 [ATM10](https://github.com/AllTheMods/ATM-10)に関連するmodの開発リポジトリ
 =======
----
 
 開発環境構築手順
-============
+=======
 1. リポジトリのクローン
 2. 開発したいアドオンのjarファイルを`./libs`配下に格納
 3. gradleプロジェクトのリフレッシュ(`gradlew --refresh-dependencies`)
 
----
+<ins>開発予定のmod</ins>
+- [Mekanism](https://github.com/mekanism/Mekanism)
+- [AlltTheModium](https://github.com/AllTheMods/AllTheModium)
+
+
+各種バージョン
+=======
+| Category  | Version    |
+|-----------|------------|
+| Minecraft | 1.21.1     |
+| Neoforge  | 21.1.228   |
+| Mekanism  | 10.7.19.85 |
+
+
 Installation information
 =======
 
