@@ -1,4 +1,14 @@
+[ATM10](https://github.com/AllTheMods/ATM-10)に関連するmodの開発リポジトリ
+=======
+---
 
+開発環境構築手順
+============
+1. リポジトリのクローン
+2. 開発したいアドオンのjarファイルを`./libs`配下に格納
+3. gradleプロジェクトのリフレッシュ(`gradlew --refresh-dependencies`)
+
+---
 Installation information
 =======
 
@@ -9,7 +19,7 @@ instructions provided by [GitHub](https://docs.github.com/en/repositories/creati
 Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
 
 If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
+run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything
 {this does not affect your code} and then start the process again.
 
 Mapping Names:
