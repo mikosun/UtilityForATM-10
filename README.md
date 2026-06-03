@@ -1,5 +1,4 @@
-[ATM10](https://github.com/AllTheMods/ATM-10)に関連するmodの開発リポジトリ
-=======
+# [ATM10](https://github.com/AllTheMods/ATM-10)に関連するmodの開発リポジトリ
 
 開発環境構築手順
 =======
